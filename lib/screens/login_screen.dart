@@ -83,7 +83,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   foregroundColor: Colors.white,
                 ),
                 onPressed: _login,
-                child: const Text('Login'),
+                child: const Text('Entrar'),
               ),
             )
           ],

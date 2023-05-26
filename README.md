@@ -1,16 +1,16 @@
-# avaliacao
+# 🎸🎶 Avaliação Flutter FATEC 🎸🎶
 
-A new Flutter project.
+Avaliação elaborada para desenvolver um aplicativo com Login estático e com armazenamento de entradas de dados via checkbox sobre tecnologias mobile.
 
-## Getting Started
+> 🛠️ 🖥️ Tecnologias e ferramentas: Flutter, Android Studio, Visual Studio Code.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Estrutura de pastas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+📂 avaliacao-flutter
+|- 📁 lib
+|--- 📁 screens
+|--- 📄 main.dart
+|- 📄 pubspec.yaml
+```
